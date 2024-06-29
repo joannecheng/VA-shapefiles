@@ -1,3 +1,7 @@
+(forked from https://github.com/mggg-states/VA-shapefiles)
+
+Adding shapefiles from [2022 redistricting](https://www.elections.virginia.gov/casting-a-ballot/redistricting/).
+
 # Virginia Election Shapefile
 This shapefile was compiled by the Princeton Gerrymandering Project and edited by the Metric Geometry and Gerrymandering Group (MGGG).
 
